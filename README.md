@@ -1,2 +1,3 @@
 # painter
-ios绘图开发
+
+develop draw graphic program
